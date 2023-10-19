@@ -1,2 +1,4 @@
 # Java1
-![Alt text](image.png)
+![Alt text][def]
+
+[def]: image.jpj
